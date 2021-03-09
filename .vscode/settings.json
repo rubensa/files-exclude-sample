@@ -1,0 +1,7 @@
+{
+  // Configure glob patterns for excluding files and folders.
+  "files.exclude": {
+    "child1": true,
+    "child2": true
+  }
+}

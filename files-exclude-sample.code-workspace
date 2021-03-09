@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "child1"
+    },
+    {
+      "path": "child2"
+    }
+  ]
+}
